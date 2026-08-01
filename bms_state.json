@@ -70,7 +70,7 @@
       "date": "20260809",
       "cat": "LOWER BALCONY",
       "price": "200.00",
-      "status": "1"
+      "status": "0"
     },
     "DVRR|3611|20260809|UPPER BALCONY": {
       "venue": "Devi 70MM 4K Laser & Dolby Atmos: RTC X Roads",
@@ -78,7 +78,7 @@
       "date": "20260809",
       "cat": "UPPER BALCONY",
       "price": "200.00",
-      "status": "1"
+      "status": "0"
     },
     "DVRR|3611|20260809|FIRST CLASS": {
       "venue": "Devi 70MM 4K Laser & Dolby Atmos: RTC X Roads",
@@ -86,7 +86,7 @@
       "date": "20260809",
       "cat": "FIRST CLASS",
       "price": "150.00",
-      "status": "1"
+      "status": "0"
     },
     "DVRR|3611|20260809|SECOND CLASS": {
       "venue": "Devi 70MM 4K Laser & Dolby Atmos: RTC X Roads",
@@ -158,7 +158,7 @@
       "date": "20260809",
       "cat": "SECOND CLASS",
       "price": "100.00",
-      "status": "3"
+      "status": "2"
     }
   },
   "dates": {
