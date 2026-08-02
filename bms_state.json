@@ -1,12 +1,68 @@
 {
   "shows": {
+    "AMBH|115999|20260809|PLATINUM": {
+      "venue": "AMB Cinemas: Gachibowli",
+      "time": "10:00 AM",
+      "date": "20260809",
+      "cat": "PLATINUM",
+      "price": "350.00",
+      "status": "0"
+    },
+    "AMBH|115999|20260809|GOLD": {
+      "venue": "AMB Cinemas: Gachibowli",
+      "time": "10:00 AM",
+      "date": "20260809",
+      "cat": "GOLD",
+      "price": "250.00",
+      "status": "3"
+    },
+    "AMBH|115999|20260809|LOUNGERS": {
+      "venue": "AMB Cinemas: Gachibowli",
+      "time": "10:00 AM",
+      "date": "20260809",
+      "cat": "LOUNGERS",
+      "price": "250.00",
+      "status": "3"
+    },
+    "ACEV|18893|20260809|RECLINERS": {
+      "venue": "ART CINEMAS: Vanasthalipuram",
+      "time": "12:55 PM",
+      "date": "20260809",
+      "cat": "RECLINERS",
+      "price": "250.00",
+      "status": "0"
+    },
+    "ACEV|18893|20260809|GOLD": {
+      "venue": "ART CINEMAS: Vanasthalipuram",
+      "time": "12:55 PM",
+      "date": "20260809",
+      "cat": "GOLD",
+      "price": "200.00",
+      "status": "3"
+    },
+    "ACAS|36205|20260809|PLATINUM": {
+      "venue": "AAA Cinemas: Ameerpet",
+      "time": "09:30 AM",
+      "date": "20260809",
+      "cat": "PLATINUM",
+      "price": "250.00",
+      "status": "0"
+    },
+    "ACAS|36205|20260809|GOLD": {
+      "venue": "AAA Cinemas: Ameerpet",
+      "time": "09:30 AM",
+      "date": "20260809",
+      "cat": "GOLD",
+      "price": "200.00",
+      "status": "3"
+    },
     "SRMO|27155|20260809|Box A": {
       "venue": "Sree Ramulu 70mm 4K Laser: Moosapet",
       "time": "07:45 AM",
       "date": "20260809",
       "cat": "Box A",
       "price": "175.00",
-      "status": "1"
+      "status": "0"
     },
     "SRMO|27155|20260809|Box B": {
       "venue": "Sree Ramulu 70mm 4K Laser: Moosapet",
@@ -14,7 +70,7 @@
       "date": "20260809",
       "cat": "Box B",
       "price": "175.00",
-      "status": "1"
+      "status": "0"
     },
     "SRMO|27155|20260809|Balcony": {
       "venue": "Sree Ramulu 70mm 4K Laser: Moosapet",
@@ -22,7 +78,7 @@
       "date": "20260809",
       "cat": "Balcony",
       "price": "175.00",
-      "status": "1"
+      "status": "0"
     },
     "SRMO|27155|20260809|First Class": {
       "venue": "Sree Ramulu 70mm 4K Laser: Moosapet",
@@ -32,13 +88,45 @@
       "price": "105.00",
       "status": "0"
     },
+    "BRKH|12199|20260809|BOX": {
+      "venue": "Bhramaramba 70MM A/C 4K Dolby: Kukatpally",
+      "time": "07:45 AM",
+      "date": "20260809",
+      "cat": "BOX",
+      "price": "175.00",
+      "status": "3"
+    },
+    "BRKH|12199|20260809|MAHARAJA CIRCLE": {
+      "venue": "Bhramaramba 70MM A/C 4K Dolby: Kukatpally",
+      "time": "07:45 AM",
+      "date": "20260809",
+      "cat": "MAHARAJA CIRCLE",
+      "price": "175.00",
+      "status": "1"
+    },
+    "BRKH|12199|20260809|DRESS CIRCLE": {
+      "venue": "Bhramaramba 70MM A/C 4K Dolby: Kukatpally",
+      "time": "07:45 AM",
+      "date": "20260809",
+      "cat": "DRESS CIRCLE",
+      "price": "150.00",
+      "status": "1"
+    },
+    "BRKH|12199|20260809|FIRST CLASS": {
+      "venue": "Bhramaramba 70MM A/C 4K Dolby: Kukatpally",
+      "time": "07:45 AM",
+      "date": "20260809",
+      "cat": "FIRST CLASS",
+      "price": "50.00",
+      "status": "1"
+    },
     "MAHM|12352|20260809|BOX": {
       "venue": "Mallikarjuna 70mm A/C DTS: Kukatpally",
       "time": "07:30 AM",
       "date": "20260809",
       "cat": "BOX",
       "price": "175.00",
-      "status": "3"
+      "status": "2"
     },
     "MAHM|12352|20260809|MAHARAJA CIRCLE": {
       "venue": "Mallikarjuna 70mm A/C DTS: Kukatpally",
@@ -46,7 +134,7 @@
       "date": "20260809",
       "cat": "MAHARAJA CIRCLE",
       "price": "175.00",
-      "status": "3"
+      "status": "2"
     },
     "MAHM|12352|20260809|DRESS CIRCLE": {
       "venue": "Mallikarjuna 70mm A/C DTS: Kukatpally",
@@ -54,7 +142,7 @@
       "date": "20260809",
       "cat": "DRESS CIRCLE",
       "price": "150.00",
-      "status": "3"
+      "status": "1"
     },
     "MAHM|12352|20260809|FIRST CLASS": {
       "venue": "Mallikarjuna 70mm A/C DTS: Kukatpally",
@@ -62,7 +150,135 @@
       "date": "20260809",
       "cat": "FIRST CLASS",
       "price": "50.00",
+      "status": "1"
+    },
+    "MAHM|12353|20260809|BOX": {
+      "venue": "Mallikarjuna 70mm A/C DTS: Kukatpally",
+      "time": "11:15 AM",
+      "date": "20260809",
+      "cat": "BOX",
+      "price": "175.00",
+      "status": "0"
+    },
+    "MAHM|12353|20260809|MAHARAJA CIRCLE": {
+      "venue": "Mallikarjuna 70mm A/C DTS: Kukatpally",
+      "time": "11:15 AM",
+      "date": "20260809",
+      "cat": "MAHARAJA CIRCLE",
+      "price": "175.00",
+      "status": "2"
+    },
+    "MAHM|12353|20260809|DRESS CIRCLE": {
+      "venue": "Mallikarjuna 70mm A/C DTS: Kukatpally",
+      "time": "11:15 AM",
+      "date": "20260809",
+      "cat": "DRESS CIRCLE",
+      "price": "105.00",
+      "status": "1"
+    },
+    "MAHM|12353|20260809|FIRST CLASS": {
+      "venue": "Mallikarjuna 70mm A/C DTS: Kukatpally",
+      "time": "11:15 AM",
+      "date": "20260809",
+      "cat": "FIRST CLASS",
+      "price": "50.00",
+      "status": "2"
+    },
+    "MAHM|12354|20260809|BOX": {
+      "venue": "Mallikarjuna 70mm A/C DTS: Kukatpally",
+      "time": "02:30 PM",
+      "date": "20260809",
+      "cat": "BOX",
+      "price": "175.00",
+      "status": "0"
+    },
+    "MAHM|12354|20260809|MAHARAJA CIRCLE": {
+      "venue": "Mallikarjuna 70mm A/C DTS: Kukatpally",
+      "time": "02:30 PM",
+      "date": "20260809",
+      "cat": "MAHARAJA CIRCLE",
+      "price": "175.00",
       "status": "3"
+    },
+    "MAHM|12354|20260809|DRESS CIRCLE": {
+      "venue": "Mallikarjuna 70mm A/C DTS: Kukatpally",
+      "time": "02:30 PM",
+      "date": "20260809",
+      "cat": "DRESS CIRCLE",
+      "price": "105.00",
+      "status": "2"
+    },
+    "MAHM|12354|20260809|FIRST CLASS": {
+      "venue": "Mallikarjuna 70mm A/C DTS: Kukatpally",
+      "time": "02:30 PM",
+      "date": "20260809",
+      "cat": "FIRST CLASS",
+      "price": "50.00",
+      "status": "3"
+    },
+    "MAHM|12355|20260809|BOX": {
+      "venue": "Mallikarjuna 70mm A/C DTS: Kukatpally",
+      "time": "06:15 PM",
+      "date": "20260809",
+      "cat": "BOX",
+      "price": "175.00",
+      "status": "0"
+    },
+    "MAHM|12355|20260809|MAHARAJA CIRCLE": {
+      "venue": "Mallikarjuna 70mm A/C DTS: Kukatpally",
+      "time": "06:15 PM",
+      "date": "20260809",
+      "cat": "MAHARAJA CIRCLE",
+      "price": "175.00",
+      "status": "3"
+    },
+    "MAHM|12355|20260809|DRESS CIRCLE": {
+      "venue": "Mallikarjuna 70mm A/C DTS: Kukatpally",
+      "time": "06:15 PM",
+      "date": "20260809",
+      "cat": "DRESS CIRCLE",
+      "price": "105.00",
+      "status": "2"
+    },
+    "MAHM|12355|20260809|FIRST CLASS": {
+      "venue": "Mallikarjuna 70mm A/C DTS: Kukatpally",
+      "time": "06:15 PM",
+      "date": "20260809",
+      "cat": "FIRST CLASS",
+      "price": "50.00",
+      "status": "2"
+    },
+    "MAHM|12356|20260809|BOX": {
+      "venue": "Mallikarjuna 70mm A/C DTS: Kukatpally",
+      "time": "09:30 PM",
+      "date": "20260809",
+      "cat": "BOX",
+      "price": "175.00",
+      "status": "0"
+    },
+    "MAHM|12356|20260809|MAHARAJA CIRCLE": {
+      "venue": "Mallikarjuna 70mm A/C DTS: Kukatpally",
+      "time": "09:30 PM",
+      "date": "20260809",
+      "cat": "MAHARAJA CIRCLE",
+      "price": "175.00",
+      "status": "3"
+    },
+    "MAHM|12356|20260809|DRESS CIRCLE": {
+      "venue": "Mallikarjuna 70mm A/C DTS: Kukatpally",
+      "time": "09:30 PM",
+      "date": "20260809",
+      "cat": "DRESS CIRCLE",
+      "price": "105.00",
+      "status": "3"
+    },
+    "MAHM|12356|20260809|FIRST CLASS": {
+      "venue": "Mallikarjuna 70mm A/C DTS: Kukatpally",
+      "time": "09:30 PM",
+      "date": "20260809",
+      "cat": "FIRST CLASS",
+      "price": "50.00",
+      "status": "0"
     },
     "SSRM|6403|20260809|Paltinum": {
       "venue": "Sri Sai Ram 70mm A/C 4k Laser Dolby 7.1:Malkajgiri",
@@ -111,6 +327,30 @@
       "cat": "FIRST CLASS",
       "price": "105.00",
       "status": "3"
+    },
+    "SNDY|5682|20260809|BALCONY": {
+      "venue": "Sandhya 35mm 2k Dolby Atmos: RTC X Roads",
+      "time": "07:30 AM",
+      "date": "20260809",
+      "cat": "BALCONY",
+      "price": "175.00",
+      "status": "1"
+    },
+    "SNDY|5682|20260809|FRONT CIRCLE": {
+      "venue": "Sandhya 35mm 2k Dolby Atmos: RTC X Roads",
+      "time": "07:30 AM",
+      "date": "20260809",
+      "cat": "FRONT CIRCLE",
+      "price": "150.00",
+      "status": "1"
+    },
+    "SNDY|5682|20260809|THIRD CLASS": {
+      "venue": "Sandhya 35mm 2k Dolby Atmos: RTC X Roads",
+      "time": "07:30 AM",
+      "date": "20260809",
+      "cat": "THIRD CLASS",
+      "price": "50.00",
+      "status": "1"
     },
     "SUDA|3624|20260809|UPPER BALCONY": {
       "venue": "Sudarshan 35MM 4k Laser & Dolby Atmos: RTC X Roads",
@@ -254,7 +494,7 @@
       "date": "20260809",
       "cat": "UPPER BALCONY",
       "price": "200.00",
-      "status": "1"
+      "status": "0"
     },
     "DVRR|3612|20260809|FIRST CLASS": {
       "venue": "Devi 70MM 4K Laser & Dolby Atmos: RTC X Roads",
@@ -270,7 +510,7 @@
       "date": "20260809",
       "cat": "SECOND CLASS",
       "price": "100.00",
-      "status": "1"
+      "status": "0"
     },
     "DVRR|3613|20260809|LOWER BALCONY": {
       "venue": "Devi 70MM 4K Laser & Dolby Atmos: RTC X Roads",
@@ -286,7 +526,7 @@
       "date": "20260809",
       "cat": "UPPER BALCONY",
       "price": "200.00",
-      "status": "2"
+      "status": "1"
     },
     "DVRR|3613|20260809|FIRST CLASS": {
       "venue": "Devi 70MM 4K Laser & Dolby Atmos: RTC X Roads",
@@ -324,9 +564,9 @@
   "dates": {
     "20260809": "BOOKABLE",
     "20260810": "AVAILABLE",
-    "20260811": "NOT_OPEN",
-    "20260812": "NOT_OPEN",
-    "20260813": "NOT_OPEN",
+    "20260811": "AVAILABLE",
+    "20260812": "AVAILABLE",
+    "20260813": "AVAILABLE",
     "20260814": "NOT_OPEN",
     "20260815": "NOT_OPEN"
   }
