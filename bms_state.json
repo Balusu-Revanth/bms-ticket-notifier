@@ -22,7 +22,7 @@
       "date": "20260809",
       "cat": "LOUNGERS",
       "price": "250.00",
-      "status": "1"
+      "status": "0"
     },
     "ACEV|18893|20260809|RECLINERS": {
       "venue": "ART CINEMAS: Vanasthalipuram",
@@ -336,14 +336,6 @@
       "price": "50.00",
       "status": "0"
     },
-    "ARJU|28005|20260809|Dress Circle": {
-      "venue": "Arjun 70MM: Kukatpally",
-      "time": "07:45 AM",
-      "date": "20260809",
-      "cat": "Dress Circle",
-      "price": "150.00",
-      "status": "0"
-    },
     "ARJU|28005|20260809|Box A": {
       "venue": "Arjun 70MM: Kukatpally",
       "time": "07:45 AM",
@@ -376,36 +368,12 @@
       "price": "175.00",
       "status": "0"
     },
-    "HMHD|1789|20260809|BOX": {
-      "venue": "BR Hitech 70mm: Madhapur",
-      "time": "07:30 AM",
+    "ARJU|28005|20260809|Dress Circle": {
+      "venue": "Arjun 70MM: Kukatpally",
+      "time": "07:45 AM",
       "date": "20260809",
-      "cat": "BOX",
+      "cat": "Dress Circle",
       "price": "150.00",
-      "status": "0"
-    },
-    "HMHD|1789|20260809|RESERVED": {
-      "venue": "BR Hitech 70mm: Madhapur",
-      "time": "07:30 AM",
-      "date": "20260809",
-      "cat": "RESERVED",
-      "price": "150.00",
-      "status": "0"
-    },
-    "HMHD|1789|20260809|SECOND CLASS": {
-      "venue": "BR Hitech 70mm: Madhapur",
-      "time": "07:30 AM",
-      "date": "20260809",
-      "cat": "SECOND CLASS",
-      "price": "100.00",
-      "status": "0"
-    },
-    "HMHD|1789|20260809|THIRD CLASS": {
-      "venue": "BR Hitech 70mm: Madhapur",
-      "time": "07:30 AM",
-      "date": "20260809",
-      "cat": "THIRD CLASS",
-      "price": "50.00",
       "status": "0"
     },
     "GOKU|8055|20260809|UPPER BALCONY": {
@@ -712,20 +680,20 @@
       "price": "225.00",
       "status": "2"
     },
-    "VAJA|27781|20260809|Second Class": {
-      "venue": "Vyjayanthi Cinema A/C 2K: Nacharam",
-      "time": "08:00 AM",
-      "date": "20260809",
-      "cat": "Second Class",
-      "price": "50.00",
-      "status": "3"
-    },
     "VAJA|27781|20260809|First Class": {
       "venue": "Vyjayanthi Cinema A/C 2K: Nacharam",
       "time": "08:00 AM",
       "date": "20260809",
       "cat": "First Class",
       "price": "100.00",
+      "status": "3"
+    },
+    "VAJA|27781|20260809|Second Class": {
+      "venue": "Vyjayanthi Cinema A/C 2K: Nacharam",
+      "time": "08:00 AM",
+      "date": "20260809",
+      "cat": "Second Class",
+      "price": "50.00",
       "status": "3"
     },
     "VAJA|27781|20260809|Balcony": {
