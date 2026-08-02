@@ -14,7 +14,7 @@
       "date": "20260809",
       "cat": "GOLD",
       "price": "250.00",
-      "status": "2"
+      "status": "1"
     },
     "AMBH|115999|20260809|LOUNGERS": {
       "venue": "AMB Cinemas: Gachibowli",
@@ -88,38 +88,6 @@
       "price": "105.00",
       "status": "0"
     },
-    "BRKH|12199|20260809|BOX": {
-      "venue": "Bhramaramba 70MM A/C 4K Dolby: Kukatpally",
-      "time": "07:45 AM",
-      "date": "20260809",
-      "cat": "BOX",
-      "price": "175.00",
-      "status": "0"
-    },
-    "BRKH|12199|20260809|MAHARAJA CIRCLE": {
-      "venue": "Bhramaramba 70MM A/C 4K Dolby: Kukatpally",
-      "time": "07:45 AM",
-      "date": "20260809",
-      "cat": "MAHARAJA CIRCLE",
-      "price": "175.00",
-      "status": "1"
-    },
-    "BRKH|12199|20260809|DRESS CIRCLE": {
-      "venue": "Bhramaramba 70MM A/C 4K Dolby: Kukatpally",
-      "time": "07:45 AM",
-      "date": "20260809",
-      "cat": "DRESS CIRCLE",
-      "price": "150.00",
-      "status": "0"
-    },
-    "BRKH|12199|20260809|FIRST CLASS": {
-      "venue": "Bhramaramba 70MM A/C 4K Dolby: Kukatpally",
-      "time": "07:45 AM",
-      "date": "20260809",
-      "cat": "FIRST CLASS",
-      "price": "50.00",
-      "status": "0"
-    },
     "MAHM|12352|20260809|BOX": {
       "venue": "Mallikarjuna 70mm A/C DTS: Kukatpally",
       "time": "07:30 AM",
@@ -134,7 +102,7 @@
       "date": "20260809",
       "cat": "MAHARAJA CIRCLE",
       "price": "175.00",
-      "status": "1"
+      "status": "0"
     },
     "MAHM|12352|20260809|DRESS CIRCLE": {
       "venue": "Mallikarjuna 70mm A/C DTS: Kukatpally",
@@ -142,7 +110,7 @@
       "date": "20260809",
       "cat": "DRESS CIRCLE",
       "price": "150.00",
-      "status": "1"
+      "status": "0"
     },
     "MAHM|12352|20260809|FIRST CLASS": {
       "venue": "Mallikarjuna 70mm A/C DTS: Kukatpally",
@@ -166,7 +134,7 @@
       "date": "20260809",
       "cat": "MAHARAJA CIRCLE",
       "price": "175.00",
-      "status": "1"
+      "status": "0"
     },
     "MAHM|12353|20260809|DRESS CIRCLE": {
       "venue": "Mallikarjuna 70mm A/C DTS: Kukatpally",
@@ -182,7 +150,7 @@
       "date": "20260809",
       "cat": "FIRST CLASS",
       "price": "50.00",
-      "status": "1"
+      "status": "0"
     },
     "MAHM|12354|20260809|BOX": {
       "venue": "Mallikarjuna 70mm A/C DTS: Kukatpally",
@@ -198,7 +166,7 @@
       "date": "20260809",
       "cat": "MAHARAJA CIRCLE",
       "price": "175.00",
-      "status": "2"
+      "status": "1"
     },
     "MAHM|12354|20260809|DRESS CIRCLE": {
       "venue": "Mallikarjuna 70mm A/C DTS: Kukatpally",
@@ -214,7 +182,7 @@
       "date": "20260809",
       "cat": "FIRST CLASS",
       "price": "50.00",
-      "status": "2"
+      "status": "1"
     },
     "MAHM|12355|20260809|BOX": {
       "venue": "Mallikarjuna 70mm A/C DTS: Kukatpally",
@@ -230,7 +198,7 @@
       "date": "20260809",
       "cat": "MAHARAJA CIRCLE",
       "price": "175.00",
-      "status": "3"
+      "status": "1"
     },
     "MAHM|12355|20260809|DRESS CIRCLE": {
       "venue": "Mallikarjuna 70mm A/C DTS: Kukatpally",
@@ -246,7 +214,7 @@
       "date": "20260809",
       "cat": "FIRST CLASS",
       "price": "50.00",
-      "status": "2"
+      "status": "1"
     },
     "MAHM|12356|20260809|BOX": {
       "venue": "Mallikarjuna 70mm A/C DTS: Kukatpally",
@@ -270,11 +238,43 @@
       "date": "20260809",
       "cat": "DRESS CIRCLE",
       "price": "105.00",
-      "status": "3"
+      "status": "2"
     },
     "MAHM|12356|20260809|FIRST CLASS": {
       "venue": "Mallikarjuna 70mm A/C DTS: Kukatpally",
       "time": "09:30 PM",
+      "date": "20260809",
+      "cat": "FIRST CLASS",
+      "price": "50.00",
+      "status": "0"
+    },
+    "BRKH|12199|20260809|BOX": {
+      "venue": "Bhramaramba 70MM A/C 4K Dolby: Kukatpally",
+      "time": "07:45 AM",
+      "date": "20260809",
+      "cat": "BOX",
+      "price": "175.00",
+      "status": "0"
+    },
+    "BRKH|12199|20260809|MAHARAJA CIRCLE": {
+      "venue": "Bhramaramba 70MM A/C 4K Dolby: Kukatpally",
+      "time": "07:45 AM",
+      "date": "20260809",
+      "cat": "MAHARAJA CIRCLE",
+      "price": "175.00",
+      "status": "0"
+    },
+    "BRKH|12199|20260809|DRESS CIRCLE": {
+      "venue": "Bhramaramba 70MM A/C 4K Dolby: Kukatpally",
+      "time": "07:45 AM",
+      "date": "20260809",
+      "cat": "DRESS CIRCLE",
+      "price": "150.00",
+      "status": "0"
+    },
+    "BRKH|12199|20260809|FIRST CLASS": {
+      "venue": "Bhramaramba 70MM A/C 4K Dolby: Kukatpally",
+      "time": "07:45 AM",
       "date": "20260809",
       "cat": "FIRST CLASS",
       "price": "50.00",
@@ -294,7 +294,7 @@
       "date": "20260809",
       "cat": "LOWER BALCONY",
       "price": "175.00",
-      "status": "3"
+      "status": "2"
     },
     "SRCM|1897|20260809|DRESS CIRCLE": {
       "venue": "Sai Ranga 70MM 4k Laser Dolby 7.1 A/C: Miyapur",
@@ -302,7 +302,7 @@
       "date": "20260809",
       "cat": "DRESS CIRCLE",
       "price": "105.00",
-      "status": "2"
+      "status": "1"
     },
     "SRCM|1897|20260809|LOWER CLASS": {
       "venue": "Sai Ranga 70MM 4k Laser Dolby 7.1 A/C: Miyapur",
@@ -310,7 +310,7 @@
       "date": "20260809",
       "cat": "LOWER CLASS",
       "price": "50.00",
-      "status": "3"
+      "status": "2"
     },
     "SSRM|6403|20260809|Paltinum": {
       "venue": "Sri Sai Ram 70mm A/C 4k Laser Dolby 7.1:Malkajgiri",
@@ -336,6 +336,46 @@
       "price": "50.00",
       "status": "0"
     },
+    "ARJU|28005|20260809|Second Class": {
+      "venue": "Arjun 70MM: Kukatpally",
+      "time": "07:45 AM",
+      "date": "20260809",
+      "cat": "Second Class",
+      "price": "50.00",
+      "status": "0"
+    },
+    "ARJU|28005|20260809|Box B": {
+      "venue": "Arjun 70MM: Kukatpally",
+      "time": "07:45 AM",
+      "date": "20260809",
+      "cat": "Box B",
+      "price": "175.00",
+      "status": "0"
+    },
+    "ARJU|28005|20260809|Balcony": {
+      "venue": "Arjun 70MM: Kukatpally",
+      "time": "07:45 AM",
+      "date": "20260809",
+      "cat": "Balcony",
+      "price": "175.00",
+      "status": "1"
+    },
+    "ARJU|28005|20260809|Dress Circle": {
+      "venue": "Arjun 70MM: Kukatpally",
+      "time": "07:45 AM",
+      "date": "20260809",
+      "cat": "Dress Circle",
+      "price": "150.00",
+      "status": "1"
+    },
+    "ARJU|28005|20260809|Box A": {
+      "venue": "Arjun 70MM: Kukatpally",
+      "time": "07:45 AM",
+      "date": "20260809",
+      "cat": "Box A",
+      "price": "175.00",
+      "status": "0"
+    },
     "HMHD|1789|20260809|BOX": {
       "venue": "BR Hitech 70mm: Madhapur",
       "time": "07:30 AM",
@@ -350,7 +390,7 @@
       "date": "20260809",
       "cat": "RESERVED",
       "price": "150.00",
-      "status": "3"
+      "status": "0"
     },
     "HMHD|1789|20260809|SECOND CLASS": {
       "venue": "BR Hitech 70mm: Madhapur",
@@ -358,7 +398,7 @@
       "date": "20260809",
       "cat": "SECOND CLASS",
       "price": "100.00",
-      "status": "3"
+      "status": "0"
     },
     "HMHD|1789|20260809|THIRD CLASS": {
       "venue": "BR Hitech 70mm: Madhapur",
@@ -415,6 +455,54 @@
       "cat": "THIRD CLASS",
       "price": "50.00",
       "status": "0"
+    },
+    "SMMR|13370|20260809|BOX A": {
+      "venue": "Sandhya 70MM 4K Dolby Atmos: RTC X Roads",
+      "time": "07:30 AM",
+      "date": "20260809",
+      "cat": "BOX A",
+      "price": "175.00",
+      "status": "3"
+    },
+    "SMMR|13370|20260809|BOX B": {
+      "venue": "Sandhya 70MM 4K Dolby Atmos: RTC X Roads",
+      "time": "07:30 AM",
+      "date": "20260809",
+      "cat": "BOX B",
+      "price": "175.00",
+      "status": "3"
+    },
+    "SMMR|13370|20260809|UPPER BALCONY": {
+      "venue": "Sandhya 70MM 4K Dolby Atmos: RTC X Roads",
+      "time": "07:30 AM",
+      "date": "20260809",
+      "cat": "UPPER BALCONY",
+      "price": "175.00",
+      "status": "2"
+    },
+    "SMMR|13370|20260809|LOWER BALCONY": {
+      "venue": "Sandhya 70MM 4K Dolby Atmos: RTC X Roads",
+      "time": "07:30 AM",
+      "date": "20260809",
+      "cat": "LOWER BALCONY",
+      "price": "175.00",
+      "status": "3"
+    },
+    "SMMR|13370|20260809|First Class": {
+      "venue": "Sandhya 70MM 4K Dolby Atmos: RTC X Roads",
+      "time": "07:30 AM",
+      "date": "20260809",
+      "cat": "First Class",
+      "price": "150.00",
+      "status": "3"
+    },
+    "SMMR|13370|20260809|THIRD CLASS": {
+      "venue": "Sandhya 70MM 4K Dolby Atmos: RTC X Roads",
+      "time": "07:30 AM",
+      "date": "20260809",
+      "cat": "THIRD CLASS",
+      "price": "50.00",
+      "status": "3"
     },
     "SUDA|3624|20260809|UPPER BALCONY": {
       "venue": "Sudarshan 35MM 4k Laser & Dolby Atmos: RTC X Roads",
@@ -518,7 +606,7 @@
       "date": "20260809",
       "cat": "LOWER BALCONY",
       "price": "200.00",
-      "status": "1"
+      "status": "0"
     },
     "DVRR|3611|20260809|UPPER BALCONY": {
       "venue": "Devi 70MM 4K Laser & Dolby Atmos: RTC X Roads",
@@ -598,7 +686,7 @@
       "date": "20260809",
       "cat": "FIRST CLASS",
       "price": "150.00",
-      "status": "1"
+      "status": "0"
     },
     "DVRR|3613|20260809|SECOND CLASS": {
       "venue": "Devi 70MM 4K Laser & Dolby Atmos: RTC X Roads",
@@ -606,15 +694,23 @@
       "date": "20260809",
       "cat": "SECOND CLASS",
       "price": "100.00",
-      "status": "2"
+      "status": "1"
     },
-    "VAJA|27781|20260809|Second Class": {
-      "venue": "Vyjayanthi Cinema A/C 2K: Nacharam",
-      "time": "08:00 AM",
+    "AMCM|10985|20260809|GOLD": {
+      "venue": "Asian Mukund Cinema: Medchal",
+      "time": "07:30 AM",
       "date": "20260809",
-      "cat": "Second Class",
-      "price": "50.00",
+      "cat": "GOLD",
+      "price": "150.00",
       "status": "3"
+    },
+    "AMCM|10985|20260809|LOUNGER": {
+      "venue": "Asian Mukund Cinema: Medchal",
+      "time": "07:30 AM",
+      "date": "20260809",
+      "cat": "LOUNGER",
+      "price": "225.00",
+      "status": "2"
     },
     "VAJA|27781|20260809|First Class": {
       "venue": "Vyjayanthi Cinema A/C 2K: Nacharam",
@@ -622,6 +718,14 @@
       "date": "20260809",
       "cat": "First Class",
       "price": "100.00",
+      "status": "3"
+    },
+    "VAJA|27781|20260809|Second Class": {
+      "venue": "Vyjayanthi Cinema A/C 2K: Nacharam",
+      "time": "08:00 AM",
+      "date": "20260809",
+      "cat": "Second Class",
+      "price": "50.00",
       "status": "3"
     },
     "VAJA|27781|20260809|Balcony": {
@@ -662,7 +766,7 @@
       "date": "20260809",
       "cat": "Balcony",
       "price": "175.00",
-      "status": "3"
+      "status": "1"
     },
     "SCVM|25973|20260809|Dress Circle": {
       "venue": "Sushma 2K Dolby Digital Cinema: Vanasthalipuram",
@@ -670,7 +774,7 @@
       "date": "20260809",
       "cat": "Dress Circle",
       "price": "105.00",
-      "status": "3"
+      "status": "1"
     },
     "SCVM|25973|20260809|3rd Class": {
       "venue": "Sushma 2K Dolby Digital Cinema: Vanasthalipuram",
@@ -678,38 +782,30 @@
       "date": "20260809",
       "cat": "3rd Class",
       "price": "50.00",
+      "status": "0"
+    },
+    "TRHY|6017|20260809|RECLINER": {
+      "venue": "Asian Tarakarama Cineplex: Kachiguda",
+      "time": "07:45 AM",
+      "date": "20260809",
+      "cat": "RECLINER",
+      "price": "225.00",
       "status": "3"
     },
-    "PTTH|28383|20260809|Second Class": {
-      "venue": "Alankar (Pratap Theatre): Langer House",
-      "time": "08:00 AM",
+    "TRHY|6017|20260809|BALCONY SOFA": {
+      "venue": "Asian Tarakarama Cineplex: Kachiguda",
+      "time": "07:45 AM",
       "date": "20260809",
-      "cat": "Second Class",
-      "price": "100.00",
+      "cat": "BALCONY SOFA",
+      "price": "150.00",
       "status": "3"
     },
-    "PTTH|28383|20260809|Third Class": {
-      "venue": "Alankar (Pratap Theatre): Langer House",
-      "time": "08:00 AM",
+    "TRHY|6017|20260809|LOWER CLASS": {
+      "venue": "Asian Tarakarama Cineplex: Kachiguda",
+      "time": "07:45 AM",
       "date": "20260809",
-      "cat": "Third Class",
+      "cat": "LOWER CLASS",
       "price": "50.00",
-      "status": "3"
-    },
-    "PTTH|28383|20260809|Balcony": {
-      "venue": "Alankar (Pratap Theatre): Langer House",
-      "time": "08:00 AM",
-      "date": "20260809",
-      "cat": "Balcony",
-      "price": "150.00",
-      "status": "3"
-    },
-    "PTTH|28383|20260809|Balcony.": {
-      "venue": "Alankar (Pratap Theatre): Langer House",
-      "time": "08:00 AM",
-      "date": "20260809",
-      "cat": "Balcony.",
-      "price": "150.00",
       "status": "3"
     },
     "SRKR|1276|20260809|LOWER BALCONY": {
