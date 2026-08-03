@@ -40,45 +40,21 @@
       "price": "200.00",
       "status": "2"
     },
-    "ACPM|71152|20260809|PLATINUM": {
+    "ACPM|71153|20260809|PLATINUM": {
       "venue": "Asian Lakshmikala Cinepride: Moosapet",
-      "time": "07:45 AM",
+      "time": "08:00 AM",
       "date": "20260809",
       "cat": "PLATINUM",
       "price": "175.00",
-      "status": "3"
+      "status": "0"
     },
-    "ACPM|71152|20260809|GOLD": {
+    "ACPM|71153|20260809|GOLD": {
       "venue": "Asian Lakshmikala Cinepride: Moosapet",
-      "time": "07:45 AM",
+      "time": "08:00 AM",
       "date": "20260809",
       "cat": "GOLD",
       "price": "150.00",
-      "status": "3"
-    },
-    "ACPM|71152|20260809|SOFA B": {
-      "venue": "Asian Lakshmikala Cinepride: Moosapet",
-      "time": "07:45 AM",
-      "date": "20260809",
-      "cat": "SOFA B",
-      "price": "200.00",
-      "status": "2"
-    },
-    "ACPM|71152|20260809|SOFA A": {
-      "venue": "Asian Lakshmikala Cinepride: Moosapet",
-      "time": "07:45 AM",
-      "date": "20260809",
-      "cat": "SOFA A",
-      "price": "200.00",
-      "status": "2"
-    },
-    "ACPM|71152|20260809|RECLINER": {
-      "venue": "Asian Lakshmikala Cinepride: Moosapet",
-      "time": "07:45 AM",
-      "date": "20260809",
-      "cat": "RECLINER",
-      "price": "225.00",
-      "status": "1"
+      "status": "0"
     },
     "ACAS|36205|20260809|PLATINUM": {
       "venue": "AAA Cinemas: Ameerpet",
@@ -448,22 +424,6 @@
       "price": "50.00",
       "status": "0"
     },
-    "ARJU|28005|20260809|Box B": {
-      "venue": "Arjun 70MM: Kukatpally",
-      "time": "07:45 AM",
-      "date": "20260809",
-      "cat": "Box B",
-      "price": "175.00",
-      "status": "0"
-    },
-    "ARJU|28005|20260809|Balcony": {
-      "venue": "Arjun 70MM: Kukatpally",
-      "time": "07:45 AM",
-      "date": "20260809",
-      "cat": "Balcony",
-      "price": "175.00",
-      "status": "0"
-    },
     "ARJU|28005|20260809|Dress Circle": {
       "venue": "Arjun 70MM: Kukatpally",
       "time": "07:45 AM",
@@ -486,6 +446,22 @@
       "date": "20260809",
       "cat": "Second Class",
       "price": "50.00",
+      "status": "0"
+    },
+    "ARJU|28005|20260809|Box B": {
+      "venue": "Arjun 70MM: Kukatpally",
+      "time": "07:45 AM",
+      "date": "20260809",
+      "cat": "Box B",
+      "price": "175.00",
+      "status": "0"
+    },
+    "ARJU|28005|20260809|Balcony": {
+      "venue": "Arjun 70MM: Kukatpally",
+      "time": "07:45 AM",
+      "date": "20260809",
+      "cat": "Balcony",
+      "price": "175.00",
       "status": "0"
     },
     "HMHD|1789|20260809|BOX": {
@@ -526,7 +502,7 @@
       "date": "20260809",
       "cat": "UPPER BALCONY",
       "price": "175.00",
-      "status": "1"
+      "status": "0"
     },
     "GOKU|8055|20260809|LOWER BALCONY": {
       "venue": "Gokul 70MM 4K DTS: Erragadda",
@@ -854,7 +830,7 @@
       "date": "20260809",
       "cat": "First Class",
       "price": "100.00",
-      "status": "3"
+      "status": "2"
     },
     "VAJA|27781|20260809|Balcony": {
       "venue": "Vyjayanthi Cinema A/C 2K: Nacharam",
@@ -862,30 +838,6 @@
       "date": "20260809",
       "cat": "Balcony",
       "price": "150.00",
-      "status": "3"
-    },
-    "SCHC|9850|20260809|UPPER BALCONY": {
-      "venue": "VLS Sridevi 2K A/C Dts: Chilakalguda",
-      "time": "07:30 AM",
-      "date": "20260809",
-      "cat": "UPPER BALCONY",
-      "price": "150.00",
-      "status": "3"
-    },
-    "SCHC|9850|20260809|LOWER BALCONY": {
-      "venue": "VLS Sridevi 2K A/C Dts: Chilakalguda",
-      "time": "07:30 AM",
-      "date": "20260809",
-      "cat": "LOWER BALCONY",
-      "price": "100.00",
-      "status": "3"
-    },
-    "SCHC|9850|20260809|THIRD CLASS": {
-      "venue": "VLS Sridevi 2K A/C Dts: Chilakalguda",
-      "time": "07:30 AM",
-      "date": "20260809",
-      "cat": "THIRD CLASS",
-      "price": "50.00",
       "status": "3"
     },
     "SCVM|25973|20260809|Balcony": {
@@ -958,7 +910,7 @@
       "date": "20260809",
       "cat": "LOWER BALCONY",
       "price": "150.00",
-      "status": "3"
+      "status": "2"
     },
     "SRKR|1276|20260809|DRESS CIRCLE": {
       "venue": "Sri Krishna 70MM: Uppal",
