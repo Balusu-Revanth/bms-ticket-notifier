@@ -14,7 +14,7 @@
       "date": "20260809",
       "cat": "GOLD",
       "price": "250.00",
-      "status": "1"
+      "status": "0"
     },
     "AMBH|115999|20260809|LOUNGERS": {
       "venue": "AMB Cinemas: Gachibowli",
@@ -55,6 +55,22 @@
       "cat": "GOLD",
       "price": "200.00",
       "status": "1"
+    },
+    "AACN|30950|20260809|GOLD": {
+      "venue": "Aparna Cinemas: Nallagandla",
+      "time": "10:00 AM",
+      "date": "20260809",
+      "cat": "GOLD",
+      "price": "250.00",
+      "status": "3"
+    },
+    "AACN|30950|20260809|EXECUTIVE": {
+      "venue": "Aparna Cinemas: Nallagandla",
+      "time": "10:00 AM",
+      "date": "20260809",
+      "cat": "EXECUTIVE",
+      "price": "200.00",
+      "status": "3"
     },
     "GPRH|34134|20260809|GOLD": {
       "venue": "GPR Multiplex: Nizampet, Hyderabad",
@@ -296,6 +312,38 @@
       "price": "50.00",
       "status": "0"
     },
+    "AMCA|72080|20260809|RECLINERS": {
+      "venue": "Asian M Cube Mall: Attapur",
+      "time": "10:30 AM",
+      "date": "20260809",
+      "cat": "RECLINERS",
+      "price": "250.00",
+      "status": "0"
+    },
+    "AMCA|72080|20260809|GOLD": {
+      "venue": "Asian M Cube Mall: Attapur",
+      "time": "10:30 AM",
+      "date": "20260809",
+      "cat": "GOLD",
+      "price": "200.00",
+      "status": "3"
+    },
+    "ASHN|29646|20260809|SOFA": {
+      "venue": "Asian Cinemart: RC Puram",
+      "time": "10:15 AM",
+      "date": "20260809",
+      "cat": "SOFA",
+      "price": "250.00",
+      "status": "0"
+    },
+    "ASHN|29646|20260809|PLATINUM": {
+      "venue": "Asian Cinemart: RC Puram",
+      "time": "10:15 AM",
+      "date": "20260809",
+      "cat": "PLATINUM",
+      "price": "200.00",
+      "status": "3"
+    },
     "SRCM|1897|20260809|UPPER BALCONY": {
       "venue": "Sai Ranga 70MM 4k Laser Dolby 7.1 A/C: Miyapur",
       "time": "07:30 AM",
@@ -328,6 +376,14 @@
       "price": "50.00",
       "status": "0"
     },
+    "CPHY|78531|20260809|GOLD": {
+      "venue": "Asian Cineplanet Multiplex: Kompally",
+      "time": "10:15 AM",
+      "date": "20260809",
+      "cat": "GOLD",
+      "price": "200.00",
+      "status": "3"
+    },
     "SSRM|6403|20260809|Paltinum": {
       "venue": "Sri Sai Ram 70mm A/C 4k Laser Dolby 7.1:Malkajgiri",
       "time": "07:45 AM",
@@ -350,6 +406,14 @@
       "date": "20260809",
       "cat": "Silver",
       "price": "50.00",
+      "status": "0"
+    },
+    "ARJU|28005|20260809|Dress Circle": {
+      "venue": "Arjun 70MM: Kukatpally",
+      "time": "07:45 AM",
+      "date": "20260809",
+      "cat": "Dress Circle",
+      "price": "150.00",
       "status": "0"
     },
     "ARJU|28005|20260809|Box A": {
@@ -382,14 +446,6 @@
       "date": "20260809",
       "cat": "Balcony",
       "price": "175.00",
-      "status": "0"
-    },
-    "ARJU|28005|20260809|Dress Circle": {
-      "venue": "Arjun 70MM: Kukatpally",
-      "time": "07:45 AM",
-      "date": "20260809",
-      "cat": "Dress Circle",
-      "price": "150.00",
       "status": "0"
     },
     "HMHD|1789|20260809|BOX": {
@@ -430,7 +486,7 @@
       "date": "20260809",
       "cat": "UPPER BALCONY",
       "price": "175.00",
-      "status": "3"
+      "status": "1"
     },
     "GOKU|8055|20260809|LOWER BALCONY": {
       "venue": "Gokul 70MM 4K DTS: Erragadda",
@@ -438,7 +494,7 @@
       "date": "20260809",
       "cat": "LOWER BALCONY",
       "price": "175.00",
-      "status": "2"
+      "status": "1"
     },
     "GOKU|8055|20260809|FIRST CLASS": {
       "venue": "Gokul 70MM 4K DTS: Erragadda",
@@ -519,6 +575,14 @@
       "cat": "THIRD CLASS",
       "price": "50.00",
       "status": "0"
+    },
+    "ARMH|55475|20260809|GOLD": {
+      "venue": "Asian Radhika Multiplex: ECIL",
+      "time": "10:00 AM",
+      "date": "20260809",
+      "cat": "GOLD",
+      "price": "200.00",
+      "status": "3"
     },
     "SUDA|3624|20260809|UPPER BALCONY": {
       "venue": "Sudarshan 35MM 4k Laser & Dolby Atmos: RTC X Roads",
@@ -728,20 +792,20 @@
       "price": "225.00",
       "status": "2"
     },
-    "VAJA|27781|20260809|First Class": {
-      "venue": "Vyjayanthi Cinema A/C 2K: Nacharam",
-      "time": "08:00 AM",
-      "date": "20260809",
-      "cat": "First Class",
-      "price": "100.00",
-      "status": "3"
-    },
     "VAJA|27781|20260809|Second Class": {
       "venue": "Vyjayanthi Cinema A/C 2K: Nacharam",
       "time": "08:00 AM",
       "date": "20260809",
       "cat": "Second Class",
       "price": "50.00",
+      "status": "3"
+    },
+    "VAJA|27781|20260809|First Class": {
+      "venue": "Vyjayanthi Cinema A/C 2K: Nacharam",
+      "time": "08:00 AM",
+      "date": "20260809",
+      "cat": "First Class",
+      "price": "100.00",
       "status": "3"
     },
     "VAJA|27781|20260809|Balcony": {
@@ -838,7 +902,7 @@
       "date": "20260809",
       "cat": "FIRST CLASS",
       "price": "100.00",
-      "status": "1"
+      "status": "0"
     },
     "SRKR|1276|20260809|LOWER BALCONY": {
       "venue": "Sri Krishna 70MM: Uppal",
@@ -853,6 +917,22 @@
       "time": "07:45 AM",
       "date": "20260809",
       "cat": "DRESS CIRCLE",
+      "price": "100.00",
+      "status": "2"
+    },
+    "SLRT|13223|20260809|Gold": {
+      "venue": "Laxmi 70MM A/C LASER DTS: Shamshabad",
+      "time": "07:45 AM",
+      "date": "20260809",
+      "cat": "Gold",
+      "price": "150.00",
+      "status": "3"
+    },
+    "SLRT|13223|20260809|Silver": {
+      "venue": "Laxmi 70MM A/C LASER DTS: Shamshabad",
+      "time": "07:45 AM",
+      "date": "20260809",
+      "cat": "Silver",
       "price": "100.00",
       "status": "3"
     }
