@@ -54,7 +54,7 @@
       "date": "20260809",
       "cat": "GOLD",
       "price": "200.00",
-      "status": "2"
+      "status": "1"
     },
     "SRMO|27155|20260809|Box A": {
       "venue": "Sree Ramulu 70mm 4K Laser: Moosapet",
@@ -230,7 +230,7 @@
       "date": "20260809",
       "cat": "MAHARAJA CIRCLE",
       "price": "175.00",
-      "status": "2"
+      "status": "1"
     },
     "MAHM|12356|20260809|DRESS CIRCLE": {
       "venue": "Mallikarjuna 70mm A/C DTS: Kukatpally",
@@ -238,7 +238,7 @@
       "date": "20260809",
       "cat": "DRESS CIRCLE",
       "price": "105.00",
-      "status": "1"
+      "status": "0"
     },
     "MAHM|12356|20260809|FIRST CLASS": {
       "venue": "Mallikarjuna 70mm A/C DTS: Kukatpally",
@@ -286,7 +286,7 @@
       "date": "20260809",
       "cat": "UPPER BALCONY",
       "price": "175.00",
-      "status": "2"
+      "status": "1"
     },
     "SRCM|1897|20260809|LOWER BALCONY": {
       "venue": "Sai Ranga 70MM 4k Laser Dolby 7.1 A/C: Miyapur",
@@ -294,7 +294,7 @@
       "date": "20260809",
       "cat": "LOWER BALCONY",
       "price": "175.00",
-      "status": "1"
+      "status": "0"
     },
     "SRCM|1897|20260809|DRESS CIRCLE": {
       "venue": "Sai Ranga 70MM 4k Laser Dolby 7.1 A/C: Miyapur",
@@ -336,22 +336,6 @@
       "price": "50.00",
       "status": "0"
     },
-    "ARJU|28005|20260809|Box A": {
-      "venue": "Arjun 70MM: Kukatpally",
-      "time": "07:45 AM",
-      "date": "20260809",
-      "cat": "Box A",
-      "price": "175.00",
-      "status": "0"
-    },
-    "ARJU|28005|20260809|Second Class": {
-      "venue": "Arjun 70MM: Kukatpally",
-      "time": "07:45 AM",
-      "date": "20260809",
-      "cat": "Second Class",
-      "price": "50.00",
-      "status": "0"
-    },
     "ARJU|28005|20260809|Box B": {
       "venue": "Arjun 70MM: Kukatpally",
       "time": "07:45 AM",
@@ -376,6 +360,54 @@
       "price": "150.00",
       "status": "0"
     },
+    "ARJU|28005|20260809|Box A": {
+      "venue": "Arjun 70MM: Kukatpally",
+      "time": "07:45 AM",
+      "date": "20260809",
+      "cat": "Box A",
+      "price": "175.00",
+      "status": "0"
+    },
+    "ARJU|28005|20260809|Second Class": {
+      "venue": "Arjun 70MM: Kukatpally",
+      "time": "07:45 AM",
+      "date": "20260809",
+      "cat": "Second Class",
+      "price": "50.00",
+      "status": "0"
+    },
+    "HMHD|1789|20260809|BOX": {
+      "venue": "BR Hitech 70mm: Madhapur",
+      "time": "07:30 AM",
+      "date": "20260809",
+      "cat": "BOX",
+      "price": "150.00",
+      "status": "0"
+    },
+    "HMHD|1789|20260809|RESERVED": {
+      "venue": "BR Hitech 70mm: Madhapur",
+      "time": "07:30 AM",
+      "date": "20260809",
+      "cat": "RESERVED",
+      "price": "150.00",
+      "status": "0"
+    },
+    "HMHD|1789|20260809|SECOND CLASS": {
+      "venue": "BR Hitech 70mm: Madhapur",
+      "time": "07:30 AM",
+      "date": "20260809",
+      "cat": "SECOND CLASS",
+      "price": "100.00",
+      "status": "0"
+    },
+    "HMHD|1789|20260809|THIRD CLASS": {
+      "venue": "BR Hitech 70mm: Madhapur",
+      "time": "07:30 AM",
+      "date": "20260809",
+      "cat": "THIRD CLASS",
+      "price": "50.00",
+      "status": "0"
+    },
     "GOKU|8055|20260809|UPPER BALCONY": {
       "venue": "Gokul 70MM 4K DTS: Erragadda",
       "time": "07:45 AM",
@@ -390,7 +422,7 @@
       "date": "20260809",
       "cat": "LOWER BALCONY",
       "price": "175.00",
-      "status": "3"
+      "status": "2"
     },
     "GOKU|8055|20260809|FIRST CLASS": {
       "venue": "Gokul 70MM 4K DTS: Erragadda",
@@ -398,7 +430,7 @@
       "date": "20260809",
       "cat": "FIRST CLASS",
       "price": "105.00",
-      "status": "1"
+      "status": "0"
     },
     "SNDY|5682|20260809|BALCONY": {
       "venue": "Sandhya 35mm 2k Dolby Atmos: RTC X Roads",
@@ -478,7 +510,7 @@
       "date": "20260809",
       "cat": "UPPER BALCONY",
       "price": "200.00",
-      "status": "1"
+      "status": "0"
     },
     "SUDA|3624|20260809|LOWER BALCONY": {
       "venue": "Sudarshan 35MM 4k Laser & Dolby Atmos: RTC X Roads",
@@ -486,7 +518,7 @@
       "date": "20260809",
       "cat": "LOWER BALCONY",
       "price": "200.00",
-      "status": "1"
+      "status": "0"
     },
     "SUDA|3624|20260809|FIRST CLASS": {
       "venue": "Sudarshan 35MM 4k Laser & Dolby Atmos: RTC X Roads",
@@ -638,7 +670,7 @@
       "date": "20260809",
       "cat": "LOWER BALCONY",
       "price": "200.00",
-      "status": "1"
+      "status": "0"
     },
     "DVRR|3613|20260809|UPPER BALCONY": {
       "venue": "Devi 70MM 4K Laser & Dolby Atmos: RTC X Roads",
@@ -662,7 +694,7 @@
       "date": "20260809",
       "cat": "SECOND CLASS",
       "price": "100.00",
-      "status": "1"
+      "status": "0"
     },
     "AMCM|10985|20260809|GOLD": {
       "venue": "Asian Mukund Cinema: Medchal",
@@ -702,30 +734,6 @@
       "date": "20260809",
       "cat": "Balcony",
       "price": "150.00",
-      "status": "3"
-    },
-    "SCHC|9850|20260809|UPPER BALCONY": {
-      "venue": "VLS Sridevi 2K A/C Dts: Chilakalguda",
-      "time": "07:30 AM",
-      "date": "20260809",
-      "cat": "UPPER BALCONY",
-      "price": "150.00",
-      "status": "3"
-    },
-    "SCHC|9850|20260809|LOWER BALCONY": {
-      "venue": "VLS Sridevi 2K A/C Dts: Chilakalguda",
-      "time": "07:30 AM",
-      "date": "20260809",
-      "cat": "LOWER BALCONY",
-      "price": "100.00",
-      "status": "3"
-    },
-    "SCHC|9850|20260809|THIRD CLASS": {
-      "venue": "VLS Sridevi 2K A/C Dts: Chilakalguda",
-      "time": "07:30 AM",
-      "date": "20260809",
-      "cat": "THIRD CLASS",
-      "price": "50.00",
       "status": "3"
     },
     "SCVM|25973|20260809|Balcony": {
