@@ -38,7 +38,7 @@
       "date": "20260809",
       "cat": "GOLD",
       "price": "200.00",
-      "status": "3"
+      "status": "2"
     },
     "ACAS|36205|20260809|PLATINUM": {
       "venue": "AAA Cinemas: Ameerpet",
@@ -55,6 +55,22 @@
       "cat": "GOLD",
       "price": "200.00",
       "status": "1"
+    },
+    "GPRH|34134|20260809|GOLD": {
+      "venue": "GPR Multiplex: Nizampet, Hyderabad",
+      "time": "09:00 AM",
+      "date": "20260809",
+      "cat": "GOLD",
+      "price": "200.00",
+      "status": "3"
+    },
+    "GPRH|34134|20260809|RECLINER": {
+      "venue": "GPR Multiplex: Nizampet, Hyderabad",
+      "time": "09:00 AM",
+      "date": "20260809",
+      "cat": "RECLINER",
+      "price": "350.00",
+      "status": "0"
     },
     "SRMO|27155|20260809|Box A": {
       "venue": "Sree Ramulu 70mm 4K Laser: Moosapet",
@@ -230,7 +246,7 @@
       "date": "20260809",
       "cat": "MAHARAJA CIRCLE",
       "price": "175.00",
-      "status": "1"
+      "status": "0"
     },
     "MAHM|12356|20260809|DRESS CIRCLE": {
       "venue": "Mallikarjuna 70mm A/C DTS: Kukatpally",
@@ -286,7 +302,7 @@
       "date": "20260809",
       "cat": "UPPER BALCONY",
       "price": "175.00",
-      "status": "1"
+      "status": "0"
     },
     "SRCM|1897|20260809|LOWER BALCONY": {
       "venue": "Sai Ranga 70MM 4k Laser Dolby 7.1 A/C: Miyapur",
@@ -336,6 +352,22 @@
       "price": "50.00",
       "status": "0"
     },
+    "ARJU|28005|20260809|Box A": {
+      "venue": "Arjun 70MM: Kukatpally",
+      "time": "07:45 AM",
+      "date": "20260809",
+      "cat": "Box A",
+      "price": "175.00",
+      "status": "0"
+    },
+    "ARJU|28005|20260809|Second Class": {
+      "venue": "Arjun 70MM: Kukatpally",
+      "time": "07:45 AM",
+      "date": "20260809",
+      "cat": "Second Class",
+      "price": "50.00",
+      "status": "0"
+    },
     "ARJU|28005|20260809|Box B": {
       "venue": "Arjun 70MM: Kukatpally",
       "time": "07:45 AM",
@@ -358,22 +390,6 @@
       "date": "20260809",
       "cat": "Dress Circle",
       "price": "150.00",
-      "status": "0"
-    },
-    "ARJU|28005|20260809|Box A": {
-      "venue": "Arjun 70MM: Kukatpally",
-      "time": "07:45 AM",
-      "date": "20260809",
-      "cat": "Box A",
-      "price": "175.00",
-      "status": "0"
-    },
-    "ARJU|28005|20260809|Second Class": {
-      "venue": "Arjun 70MM: Kukatpally",
-      "time": "07:45 AM",
-      "date": "20260809",
-      "cat": "Second Class",
-      "price": "50.00",
       "status": "0"
     },
     "HMHD|1789|20260809|BOX": {
@@ -678,7 +694,7 @@
       "date": "20260809",
       "cat": "UPPER BALCONY",
       "price": "200.00",
-      "status": "1"
+      "status": "0"
     },
     "DVRR|3613|20260809|FIRST CLASS": {
       "venue": "Devi 70MM 4K Laser & Dolby Atmos: RTC X Roads",
@@ -736,6 +752,30 @@
       "price": "150.00",
       "status": "3"
     },
+    "SCHC|9850|20260809|UPPER BALCONY": {
+      "venue": "VLS Sridevi 2K A/C Dts: Chilakalguda",
+      "time": "07:30 AM",
+      "date": "20260809",
+      "cat": "UPPER BALCONY",
+      "price": "150.00",
+      "status": "3"
+    },
+    "SCHC|9850|20260809|LOWER BALCONY": {
+      "venue": "VLS Sridevi 2K A/C Dts: Chilakalguda",
+      "time": "07:30 AM",
+      "date": "20260809",
+      "cat": "LOWER BALCONY",
+      "price": "100.00",
+      "status": "3"
+    },
+    "SCHC|9850|20260809|THIRD CLASS": {
+      "venue": "VLS Sridevi 2K A/C Dts: Chilakalguda",
+      "time": "07:30 AM",
+      "date": "20260809",
+      "cat": "THIRD CLASS",
+      "price": "50.00",
+      "status": "3"
+    },
     "SCVM|25973|20260809|Balcony": {
       "venue": "Sushma 2K Dolby Digital Cinema: Vanasthalipuram",
       "time": "07:30 AM",
@@ -783,6 +823,22 @@
       "cat": "LOWER CLASS",
       "price": "50.00",
       "status": "3"
+    },
+    "BJNG|1229|20260809|BALCONY": {
+      "venue": "Bhujanga 70MM: Jeedimetla",
+      "time": "07:15 AM",
+      "date": "20260809",
+      "cat": "BALCONY",
+      "price": "150.00",
+      "status": "1"
+    },
+    "BJNG|1229|20260809|FIRST CLASS": {
+      "venue": "Bhujanga 70MM: Jeedimetla",
+      "time": "07:15 AM",
+      "date": "20260809",
+      "cat": "FIRST CLASS",
+      "price": "100.00",
+      "status": "1"
     },
     "SRKR|1276|20260809|LOWER BALCONY": {
       "venue": "Sri Krishna 70MM: Uppal",
