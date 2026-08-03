@@ -40,6 +40,46 @@
       "price": "200.00",
       "status": "2"
     },
+    "ACPM|71152|20260809|PLATINUM": {
+      "venue": "Asian Lakshmikala Cinepride: Moosapet",
+      "time": "07:45 AM",
+      "date": "20260809",
+      "cat": "PLATINUM",
+      "price": "175.00",
+      "status": "3"
+    },
+    "ACPM|71152|20260809|GOLD": {
+      "venue": "Asian Lakshmikala Cinepride: Moosapet",
+      "time": "07:45 AM",
+      "date": "20260809",
+      "cat": "GOLD",
+      "price": "150.00",
+      "status": "3"
+    },
+    "ACPM|71152|20260809|SOFA B": {
+      "venue": "Asian Lakshmikala Cinepride: Moosapet",
+      "time": "07:45 AM",
+      "date": "20260809",
+      "cat": "SOFA B",
+      "price": "200.00",
+      "status": "2"
+    },
+    "ACPM|71152|20260809|SOFA A": {
+      "venue": "Asian Lakshmikala Cinepride: Moosapet",
+      "time": "07:45 AM",
+      "date": "20260809",
+      "cat": "SOFA A",
+      "price": "200.00",
+      "status": "2"
+    },
+    "ACPM|71152|20260809|RECLINER": {
+      "venue": "Asian Lakshmikala Cinepride: Moosapet",
+      "time": "07:45 AM",
+      "date": "20260809",
+      "cat": "RECLINER",
+      "price": "225.00",
+      "status": "1"
+    },
     "ACAS|36205|20260809|PLATINUM": {
       "venue": "AAA Cinemas: Ameerpet",
       "time": "09:30 AM",
@@ -312,22 +352,6 @@
       "price": "50.00",
       "status": "0"
     },
-    "AMCA|72080|20260809|RECLINERS": {
-      "venue": "Asian M Cube Mall: Attapur",
-      "time": "10:30 AM",
-      "date": "20260809",
-      "cat": "RECLINERS",
-      "price": "250.00",
-      "status": "0"
-    },
-    "AMCA|72080|20260809|GOLD": {
-      "venue": "Asian M Cube Mall: Attapur",
-      "time": "10:30 AM",
-      "date": "20260809",
-      "cat": "GOLD",
-      "price": "200.00",
-      "status": "3"
-    },
     "ASHN|29646|20260809|SOFA": {
       "venue": "Asian Cinemart: RC Puram",
       "time": "10:15 AM",
@@ -341,6 +365,22 @@
       "time": "10:15 AM",
       "date": "20260809",
       "cat": "PLATINUM",
+      "price": "200.00",
+      "status": "3"
+    },
+    "AMCA|72080|20260809|RECLINERS": {
+      "venue": "Asian M Cube Mall: Attapur",
+      "time": "10:30 AM",
+      "date": "20260809",
+      "cat": "RECLINERS",
+      "price": "250.00",
+      "status": "0"
+    },
+    "AMCA|72080|20260809|GOLD": {
+      "venue": "Asian M Cube Mall: Attapur",
+      "time": "10:30 AM",
+      "date": "20260809",
+      "cat": "GOLD",
       "price": "200.00",
       "status": "3"
     },
@@ -408,6 +448,22 @@
       "price": "50.00",
       "status": "0"
     },
+    "ARJU|28005|20260809|Box B": {
+      "venue": "Arjun 70MM: Kukatpally",
+      "time": "07:45 AM",
+      "date": "20260809",
+      "cat": "Box B",
+      "price": "175.00",
+      "status": "0"
+    },
+    "ARJU|28005|20260809|Balcony": {
+      "venue": "Arjun 70MM: Kukatpally",
+      "time": "07:45 AM",
+      "date": "20260809",
+      "cat": "Balcony",
+      "price": "175.00",
+      "status": "0"
+    },
     "ARJU|28005|20260809|Dress Circle": {
       "venue": "Arjun 70MM: Kukatpally",
       "time": "07:45 AM",
@@ -430,22 +486,6 @@
       "date": "20260809",
       "cat": "Second Class",
       "price": "50.00",
-      "status": "0"
-    },
-    "ARJU|28005|20260809|Box B": {
-      "venue": "Arjun 70MM: Kukatpally",
-      "time": "07:45 AM",
-      "date": "20260809",
-      "cat": "Box B",
-      "price": "175.00",
-      "status": "0"
-    },
-    "ARJU|28005|20260809|Balcony": {
-      "venue": "Arjun 70MM: Kukatpally",
-      "time": "07:45 AM",
-      "date": "20260809",
-      "cat": "Balcony",
-      "price": "175.00",
       "status": "0"
     },
     "HMHD|1789|20260809|BOX": {
@@ -494,7 +534,7 @@
       "date": "20260809",
       "cat": "LOWER BALCONY",
       "price": "175.00",
-      "status": "1"
+      "status": "0"
     },
     "GOKU|8055|20260809|FIRST CLASS": {
       "venue": "Gokul 70MM 4K DTS: Erragadda",
@@ -616,37 +656,21 @@
       "price": "100.00",
       "status": "0"
     },
-    "DVRR|3609|20260809|LOWER BALCONY": {
-      "venue": "Devi 70MM 4K Laser & Dolby Atmos: RTC X Roads",
-      "time": "07:00 AM",
+    "APNS|2472|20260809|GOLD": {
+      "venue": "Aparna Cinemas: Shamshabad",
+      "time": "10:00 AM",
       "date": "20260809",
-      "cat": "LOWER BALCONY",
+      "cat": "GOLD",
+      "price": "250.00",
+      "status": "3"
+    },
+    "APNS|2472|20260809|CLASSIC": {
+      "venue": "Aparna Cinemas: Shamshabad",
+      "time": "10:00 AM",
+      "date": "20260809",
+      "cat": "CLASSIC",
       "price": "200.00",
-      "status": "0"
-    },
-    "DVRR|3609|20260809|UPPER BALCONY": {
-      "venue": "Devi 70MM 4K Laser & Dolby Atmos: RTC X Roads",
-      "time": "07:00 AM",
-      "date": "20260809",
-      "cat": "UPPER BALCONY",
-      "price": "200.00",
-      "status": "0"
-    },
-    "DVRR|3609|20260809|FIRST CLASS": {
-      "venue": "Devi 70MM 4K Laser & Dolby Atmos: RTC X Roads",
-      "time": "07:00 AM",
-      "date": "20260809",
-      "cat": "FIRST CLASS",
-      "price": "150.00",
-      "status": "0"
-    },
-    "DVRR|3609|20260809|SECOND CLASS": {
-      "venue": "Devi 70MM 4K Laser & Dolby Atmos: RTC X Roads",
-      "time": "07:00 AM",
-      "date": "20260809",
-      "cat": "SECOND CLASS",
-      "price": "100.00",
-      "status": "0"
+      "status": "3"
     },
     "DVRR|3610|20260809|LOWER BALCONY": {
       "venue": "Devi 70MM 4K Laser & Dolby Atmos: RTC X Roads",
@@ -776,6 +800,30 @@
       "price": "100.00",
       "status": "0"
     },
+    "VTRB|10703|20260809|BOX": {
+      "venue": "Vijetha 70MM 4k Atmos: Borabanda",
+      "time": "07:30 AM",
+      "date": "20260809",
+      "cat": "BOX",
+      "price": "150.00",
+      "status": "0"
+    },
+    "VTRB|10703|20260809|BALCONY": {
+      "venue": "Vijetha 70MM 4k Atmos: Borabanda",
+      "time": "07:30 AM",
+      "date": "20260809",
+      "cat": "BALCONY",
+      "price": "150.00",
+      "status": "3"
+    },
+    "VTRB|10703|20260809|Dress Circle": {
+      "venue": "Vijetha 70MM 4k Atmos: Borabanda",
+      "time": "07:30 AM",
+      "date": "20260809",
+      "cat": "Dress Circle",
+      "price": "80.00",
+      "status": "3"
+    },
     "AMCM|10985|20260809|GOLD": {
       "venue": "Asian Mukund Cinema: Medchal",
       "time": "07:30 AM",
@@ -894,7 +942,7 @@
       "date": "20260809",
       "cat": "BALCONY",
       "price": "150.00",
-      "status": "1"
+      "status": "0"
     },
     "BJNG|1229|20260809|FIRST CLASS": {
       "venue": "Bhujanga 70MM: Jeedimetla",
@@ -918,7 +966,7 @@
       "date": "20260809",
       "cat": "DRESS CIRCLE",
       "price": "100.00",
-      "status": "2"
+      "status": "1"
     },
     "SLRT|13223|20260809|Gold": {
       "venue": "Laxmi 70MM A/C LASER DTS: Shamshabad",
