@@ -424,6 +424,14 @@
       "price": "50.00",
       "status": "0"
     },
+    "ARJU|28005|20260809|Balcony": {
+      "venue": "Arjun 70MM: Kukatpally",
+      "time": "07:45 AM",
+      "date": "20260809",
+      "cat": "Balcony",
+      "price": "175.00",
+      "status": "0"
+    },
     "ARJU|28005|20260809|Dress Circle": {
       "venue": "Arjun 70MM: Kukatpally",
       "time": "07:45 AM",
@@ -453,14 +461,6 @@
       "time": "07:45 AM",
       "date": "20260809",
       "cat": "Box B",
-      "price": "175.00",
-      "status": "0"
-    },
-    "ARJU|28005|20260809|Balcony": {
-      "venue": "Arjun 70MM: Kukatpally",
-      "time": "07:45 AM",
-      "date": "20260809",
-      "cat": "Balcony",
       "price": "175.00",
       "status": "0"
     },
@@ -648,6 +648,134 @@
       "price": "200.00",
       "status": "3"
     },
+    "DVRR|3610|20260809|LOWER BALCONY": {
+      "venue": "Devi 70MM 4K Laser & Dolby Atmos: RTC X Roads",
+      "time": "10:45 AM",
+      "date": "20260809",
+      "cat": "LOWER BALCONY",
+      "price": "200.00",
+      "status": "0"
+    },
+    "DVRR|3610|20260809|UPPER BALCONY": {
+      "venue": "Devi 70MM 4K Laser & Dolby Atmos: RTC X Roads",
+      "time": "10:45 AM",
+      "date": "20260809",
+      "cat": "UPPER BALCONY",
+      "price": "200.00",
+      "status": "0"
+    },
+    "DVRR|3610|20260809|FIRST CLASS": {
+      "venue": "Devi 70MM 4K Laser & Dolby Atmos: RTC X Roads",
+      "time": "10:45 AM",
+      "date": "20260809",
+      "cat": "FIRST CLASS",
+      "price": "150.00",
+      "status": "0"
+    },
+    "DVRR|3610|20260809|SECOND CLASS": {
+      "venue": "Devi 70MM 4K Laser & Dolby Atmos: RTC X Roads",
+      "time": "10:45 AM",
+      "date": "20260809",
+      "cat": "SECOND CLASS",
+      "price": "100.00",
+      "status": "0"
+    },
+    "DVRR|3611|20260809|LOWER BALCONY": {
+      "venue": "Devi 70MM 4K Laser & Dolby Atmos: RTC X Roads",
+      "time": "02:30 PM",
+      "date": "20260809",
+      "cat": "LOWER BALCONY",
+      "price": "200.00",
+      "status": "0"
+    },
+    "DVRR|3611|20260809|UPPER BALCONY": {
+      "venue": "Devi 70MM 4K Laser & Dolby Atmos: RTC X Roads",
+      "time": "02:30 PM",
+      "date": "20260809",
+      "cat": "UPPER BALCONY",
+      "price": "200.00",
+      "status": "0"
+    },
+    "DVRR|3611|20260809|FIRST CLASS": {
+      "venue": "Devi 70MM 4K Laser & Dolby Atmos: RTC X Roads",
+      "time": "02:30 PM",
+      "date": "20260809",
+      "cat": "FIRST CLASS",
+      "price": "150.00",
+      "status": "0"
+    },
+    "DVRR|3611|20260809|SECOND CLASS": {
+      "venue": "Devi 70MM 4K Laser & Dolby Atmos: RTC X Roads",
+      "time": "02:30 PM",
+      "date": "20260809",
+      "cat": "SECOND CLASS",
+      "price": "100.00",
+      "status": "0"
+    },
+    "DVRR|3612|20260809|LOWER BALCONY": {
+      "venue": "Devi 70MM 4K Laser & Dolby Atmos: RTC X Roads",
+      "time": "06:15 PM",
+      "date": "20260809",
+      "cat": "LOWER BALCONY",
+      "price": "200.00",
+      "status": "0"
+    },
+    "DVRR|3612|20260809|UPPER BALCONY": {
+      "venue": "Devi 70MM 4K Laser & Dolby Atmos: RTC X Roads",
+      "time": "06:15 PM",
+      "date": "20260809",
+      "cat": "UPPER BALCONY",
+      "price": "200.00",
+      "status": "0"
+    },
+    "DVRR|3612|20260809|FIRST CLASS": {
+      "venue": "Devi 70MM 4K Laser & Dolby Atmos: RTC X Roads",
+      "time": "06:15 PM",
+      "date": "20260809",
+      "cat": "FIRST CLASS",
+      "price": "150.00",
+      "status": "0"
+    },
+    "DVRR|3612|20260809|SECOND CLASS": {
+      "venue": "Devi 70MM 4K Laser & Dolby Atmos: RTC X Roads",
+      "time": "06:15 PM",
+      "date": "20260809",
+      "cat": "SECOND CLASS",
+      "price": "100.00",
+      "status": "0"
+    },
+    "DVRR|3613|20260809|LOWER BALCONY": {
+      "venue": "Devi 70MM 4K Laser & Dolby Atmos: RTC X Roads",
+      "time": "10:00 PM",
+      "date": "20260809",
+      "cat": "LOWER BALCONY",
+      "price": "200.00",
+      "status": "0"
+    },
+    "DVRR|3613|20260809|UPPER BALCONY": {
+      "venue": "Devi 70MM 4K Laser & Dolby Atmos: RTC X Roads",
+      "time": "10:00 PM",
+      "date": "20260809",
+      "cat": "UPPER BALCONY",
+      "price": "200.00",
+      "status": "0"
+    },
+    "DVRR|3613|20260809|FIRST CLASS": {
+      "venue": "Devi 70MM 4K Laser & Dolby Atmos: RTC X Roads",
+      "time": "10:00 PM",
+      "date": "20260809",
+      "cat": "FIRST CLASS",
+      "price": "150.00",
+      "status": "0"
+    },
+    "DVRR|3613|20260809|SECOND CLASS": {
+      "venue": "Devi 70MM 4K Laser & Dolby Atmos: RTC X Roads",
+      "time": "10:00 PM",
+      "date": "20260809",
+      "cat": "SECOND CLASS",
+      "price": "100.00",
+      "status": "0"
+    },
     "VTRB|10703|20260809|BOX": {
       "venue": "Vijetha 70MM 4k Atmos: Borabanda",
       "time": "07:30 AM",
@@ -736,37 +864,13 @@
       "price": "50.00",
       "status": "0"
     },
-    "TRHY|6017|20260809|RECLINER": {
-      "venue": "Asian Tarakarama Cineplex: Kachiguda",
-      "time": "07:45 AM",
-      "date": "20260809",
-      "cat": "RECLINER",
-      "price": "225.00",
-      "status": "3"
-    },
-    "TRHY|6017|20260809|BALCONY SOFA": {
-      "venue": "Asian Tarakarama Cineplex: Kachiguda",
-      "time": "07:45 AM",
-      "date": "20260809",
-      "cat": "BALCONY SOFA",
-      "price": "150.00",
-      "status": "3"
-    },
-    "TRHY|6017|20260809|LOWER CLASS": {
-      "venue": "Asian Tarakarama Cineplex: Kachiguda",
-      "time": "07:45 AM",
-      "date": "20260809",
-      "cat": "LOWER CLASS",
-      "price": "50.00",
-      "status": "3"
-    },
     "BJNG|1229|20260809|BALCONY": {
       "venue": "Bhujanga 70MM: Jeedimetla",
       "time": "07:15 AM",
       "date": "20260809",
       "cat": "BALCONY",
       "price": "150.00",
-      "status": "3"
+      "status": "0"
     },
     "BJNG|1229|20260809|FIRST CLASS": {
       "venue": "Bhujanga 70MM: Jeedimetla",
@@ -774,7 +878,7 @@
       "date": "20260809",
       "cat": "FIRST CLASS",
       "price": "100.00",
-      "status": "3"
+      "status": "0"
     },
     "SRKR|1276|20260809|LOWER BALCONY": {
       "venue": "Sri Krishna 70MM: Uppal",
