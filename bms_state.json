@@ -24,6 +24,22 @@
       "price": "250.00",
       "status": "0"
     },
+    "ALUC|3601|20260809|PLATINUM": {
+      "venue": "ALLU Cinemas: Kokapet",
+      "time": "09:30 AM",
+      "date": "20260809",
+      "cat": "PLATINUM",
+      "price": "350.00",
+      "status": "0"
+    },
+    "ALUC|3601|20260809|GOLD": {
+      "venue": "ALLU Cinemas: Kokapet",
+      "time": "09:30 AM",
+      "date": "20260809",
+      "cat": "GOLD",
+      "price": "295.00",
+      "status": "3"
+    },
     "PRHN|254338|20260809|EXECUTIVE": {
       "venue": "Prasads Multiplex: Hyderabad",
       "time": "08:00 AM",
@@ -31,6 +47,46 @@
       "cat": "EXECUTIVE",
       "price": "250.00",
       "status": "3"
+    },
+    "ACEV|18893|20260809|RECLINERS": {
+      "venue": "ART CINEMAS: Vanasthalipuram",
+      "time": "12:55 PM",
+      "date": "20260809",
+      "cat": "RECLINERS",
+      "price": "250.00",
+      "status": "0"
+    },
+    "ACEV|18893|20260809|GOLD": {
+      "venue": "ART CINEMAS: Vanasthalipuram",
+      "time": "12:55 PM",
+      "date": "20260809",
+      "cat": "GOLD",
+      "price": "200.00",
+      "status": "1"
+    },
+    "ACPM|71154|20260809|COUPLE SEATS": {
+      "venue": "Asian Lakshmikala Cinepride: Moosapet",
+      "time": "07:50 AM",
+      "date": "20260809",
+      "cat": "COUPLE SEATS",
+      "price": "175.00",
+      "status": "0"
+    },
+    "ACPM|71154|20260809|PLATINUM": {
+      "venue": "Asian Lakshmikala Cinepride: Moosapet",
+      "time": "07:50 AM",
+      "date": "20260809",
+      "cat": "PLATINUM",
+      "price": "175.00",
+      "status": "2"
+    },
+    "ACPM|71154|20260809|GOLD": {
+      "venue": "Asian Lakshmikala Cinepride: Moosapet",
+      "time": "07:50 AM",
+      "date": "20260809",
+      "cat": "GOLD",
+      "price": "150.00",
+      "status": "2"
     },
     "ACPM|71153|20260809|PLATINUM": {
       "venue": "Asian Lakshmikala Cinepride: Moosapet",
@@ -48,22 +104,6 @@
       "price": "150.00",
       "status": "0"
     },
-    "ACEV|18893|20260809|RECLINERS": {
-      "venue": "ART CINEMAS: Vanasthalipuram",
-      "time": "12:55 PM",
-      "date": "20260809",
-      "cat": "RECLINERS",
-      "price": "250.00",
-      "status": "0"
-    },
-    "ACEV|18893|20260809|GOLD": {
-      "venue": "ART CINEMAS: Vanasthalipuram",
-      "time": "12:55 PM",
-      "date": "20260809",
-      "cat": "GOLD",
-      "price": "200.00",
-      "status": "2"
-    },
     "ACAS|36205|20260809|PLATINUM": {
       "venue": "AAA Cinemas: Ameerpet",
       "time": "09:30 AM",
@@ -80,6 +120,22 @@
       "price": "200.00",
       "status": "0"
     },
+    "AACN|30950|20260809|GOLD": {
+      "venue": "Aparna Cinemas: Nallagandla",
+      "time": "10:00 AM",
+      "date": "20260809",
+      "cat": "GOLD",
+      "price": "250.00",
+      "status": "0"
+    },
+    "AACN|30950|20260809|EXECUTIVE": {
+      "venue": "Aparna Cinemas: Nallagandla",
+      "time": "10:00 AM",
+      "date": "20260809",
+      "cat": "EXECUTIVE",
+      "price": "200.00",
+      "status": "3"
+    },
     "GPRH|34134|20260809|GOLD": {
       "venue": "GPR Multiplex: Nizampet, Hyderabad",
       "time": "09:00 AM",
@@ -95,22 +151,6 @@
       "cat": "RECLINER",
       "price": "350.00",
       "status": "0"
-    },
-    "AACN|30950|20260809|GOLD": {
-      "venue": "Aparna Cinemas: Nallagandla",
-      "time": "10:00 AM",
-      "date": "20260809",
-      "cat": "GOLD",
-      "price": "250.00",
-      "status": "1"
-    },
-    "AACN|30950|20260809|EXECUTIVE": {
-      "venue": "Aparna Cinemas: Nallagandla",
-      "time": "10:00 AM",
-      "date": "20260809",
-      "cat": "EXECUTIVE",
-      "price": "200.00",
-      "status": "3"
     },
     "SRMO|27155|20260809|Box A": {
       "venue": "Sree Ramulu 70mm 4K Laser: Moosapet",
@@ -336,22 +376,6 @@
       "price": "50.00",
       "status": "0"
     },
-    "ASHN|29646|20260809|SOFA": {
-      "venue": "Asian Cinemart: RC Puram",
-      "time": "10:15 AM",
-      "date": "20260809",
-      "cat": "SOFA",
-      "price": "250.00",
-      "status": "0"
-    },
-    "ASHN|29646|20260809|PLATINUM": {
-      "venue": "Asian Cinemart: RC Puram",
-      "time": "10:15 AM",
-      "date": "20260809",
-      "cat": "PLATINUM",
-      "price": "200.00",
-      "status": "3"
-    },
     "AMCA|72080|20260809|RECLINERS": {
       "venue": "Asian M Cube Mall: Attapur",
       "time": "10:30 AM",
@@ -365,6 +389,22 @@
       "time": "10:30 AM",
       "date": "20260809",
       "cat": "GOLD",
+      "price": "200.00",
+      "status": "3"
+    },
+    "ASHN|29646|20260809|SOFA": {
+      "venue": "Asian Cinemart: RC Puram",
+      "time": "10:15 AM",
+      "date": "20260809",
+      "cat": "SOFA",
+      "price": "250.00",
+      "status": "0"
+    },
+    "ASHN|29646|20260809|PLATINUM": {
+      "venue": "Asian Cinemart: RC Puram",
+      "time": "10:15 AM",
+      "date": "20260809",
+      "cat": "PLATINUM",
       "price": "200.00",
       "status": "3"
     },
@@ -432,14 +472,6 @@
       "price": "50.00",
       "status": "0"
     },
-    "ARJU|28005|20260809|Dress Circle": {
-      "venue": "Arjun 70MM: Kukatpally",
-      "time": "07:45 AM",
-      "date": "20260809",
-      "cat": "Dress Circle",
-      "price": "150.00",
-      "status": "0"
-    },
     "ARJU|28005|20260809|Box A": {
       "venue": "Arjun 70MM: Kukatpally",
       "time": "07:45 AM",
@@ -470,6 +502,14 @@
       "date": "20260809",
       "cat": "Balcony",
       "price": "175.00",
+      "status": "0"
+    },
+    "ARJU|28005|20260809|Dress Circle": {
+      "venue": "Arjun 70MM: Kukatpally",
+      "time": "07:45 AM",
+      "date": "20260809",
+      "cat": "Dress Circle",
+      "price": "150.00",
       "status": "0"
     },
     "HMHD|1789|20260809|BOX": {
@@ -640,22 +680,6 @@
       "price": "100.00",
       "status": "0"
     },
-    "APNS|2472|20260809|GOLD": {
-      "venue": "Aparna Cinemas: Shamshabad",
-      "time": "10:00 AM",
-      "date": "20260809",
-      "cat": "GOLD",
-      "price": "250.00",
-      "status": "3"
-    },
-    "APNS|2472|20260809|CLASSIC": {
-      "venue": "Aparna Cinemas: Shamshabad",
-      "time": "10:00 AM",
-      "date": "20260809",
-      "cat": "CLASSIC",
-      "price": "200.00",
-      "status": "3"
-    },
     "DVRR|3610|20260809|LOWER BALCONY": {
       "venue": "Devi 70MM 4K Laser & Dolby Atmos: RTC X Roads",
       "time": "10:45 AM",
@@ -784,6 +808,22 @@
       "price": "100.00",
       "status": "0"
     },
+    "APNS|2472|20260809|GOLD": {
+      "venue": "Aparna Cinemas: Shamshabad",
+      "time": "10:00 AM",
+      "date": "20260809",
+      "cat": "GOLD",
+      "price": "250.00",
+      "status": "3"
+    },
+    "APNS|2472|20260809|CLASSIC": {
+      "venue": "Aparna Cinemas: Shamshabad",
+      "time": "10:00 AM",
+      "date": "20260809",
+      "cat": "CLASSIC",
+      "price": "200.00",
+      "status": "3"
+    },
     "VTRB|10703|20260809|BOX": {
       "venue": "Vijetha 70MM 4k Atmos: Borabanda",
       "time": "07:30 AM",
@@ -798,7 +838,7 @@
       "date": "20260809",
       "cat": "BALCONY",
       "price": "150.00",
-      "status": "3"
+      "status": "2"
     },
     "VTRB|10703|20260809|Dress Circle": {
       "venue": "Vijetha 70MM 4k Atmos: Borabanda",
@@ -806,7 +846,7 @@
       "date": "20260809",
       "cat": "Dress Circle",
       "price": "80.00",
-      "status": "3"
+      "status": "1"
     },
     "AMCM|10985|20260809|GOLD": {
       "venue": "Asian Mukund Cinema: Medchal",
@@ -824,6 +864,14 @@
       "price": "225.00",
       "status": "2"
     },
+    "VAJA|27781|20260809|Second Class": {
+      "venue": "Vyjayanthi Cinema A/C 2K: Nacharam",
+      "time": "08:00 AM",
+      "date": "20260809",
+      "cat": "Second Class",
+      "price": "50.00",
+      "status": "1"
+    },
     "VAJA|27781|20260809|First Class": {
       "venue": "Vyjayanthi Cinema A/C 2K: Nacharam",
       "time": "08:00 AM",
@@ -832,20 +880,36 @@
       "price": "100.00",
       "status": "1"
     },
-    "VAJA|27781|20260809|Second Class": {
-      "venue": "Vyjayanthi Cinema A/C 2K: Nacharam",
-      "time": "08:00 AM",
-      "date": "20260809",
-      "cat": "Second Class",
-      "price": "50.00",
-      "status": "2"
-    },
     "VAJA|27781|20260809|Balcony": {
       "venue": "Vyjayanthi Cinema A/C 2K: Nacharam",
       "time": "08:00 AM",
       "date": "20260809",
       "cat": "Balcony",
       "price": "150.00",
+      "status": "2"
+    },
+    "SCHC|9850|20260809|UPPER BALCONY": {
+      "venue": "VLS Sridevi 2K A/C Dts: Chilakalguda",
+      "time": "07:30 AM",
+      "date": "20260809",
+      "cat": "UPPER BALCONY",
+      "price": "150.00",
+      "status": "3"
+    },
+    "SCHC|9850|20260809|LOWER BALCONY": {
+      "venue": "VLS Sridevi 2K A/C Dts: Chilakalguda",
+      "time": "07:30 AM",
+      "date": "20260809",
+      "cat": "LOWER BALCONY",
+      "price": "100.00",
+      "status": "3"
+    },
+    "SCHC|9850|20260809|THIRD CLASS": {
+      "venue": "VLS Sridevi 2K A/C Dts: Chilakalguda",
+      "time": "07:30 AM",
+      "date": "20260809",
+      "cat": "THIRD CLASS",
+      "price": "50.00",
       "status": "3"
     },
     "SCVM|25973|20260809|Balcony": {
@@ -912,6 +976,14 @@
       "price": "100.00",
       "status": "0"
     },
+    "SRKR|1276|20260809|UPPER BALCONY": {
+      "venue": "Sri Krishna 70MM: Uppal",
+      "time": "07:45 AM",
+      "date": "20260809",
+      "cat": "UPPER BALCONY",
+      "price": "150.00",
+      "status": "1"
+    },
     "SRKR|1276|20260809|LOWER BALCONY": {
       "venue": "Sri Krishna 70MM: Uppal",
       "time": "07:45 AM",
@@ -926,6 +998,14 @@
       "date": "20260809",
       "cat": "DRESS CIRCLE",
       "price": "100.00",
+      "status": "0"
+    },
+    "SRKR|1276|20260809|THIRD CLASS": {
+      "venue": "Sri Krishna 70MM: Uppal",
+      "time": "07:45 AM",
+      "date": "20260809",
+      "cat": "THIRD CLASS",
+      "price": "50.00",
       "status": "1"
     },
     "SLRT|13223|20260809|Gold": {
@@ -942,6 +1022,46 @@
       "date": "20260809",
       "cat": "Silver",
       "price": "100.00",
+      "status": "3"
+    },
+    "ARTH|6454|20260809|BALCONY": {
+      "venue": "Aradhana Theatre: Hyderabad",
+      "time": "08:00 AM",
+      "date": "20260809",
+      "cat": "BALCONY",
+      "price": "150.00",
+      "status": "3"
+    },
+    "ARTH|6454|20260809|FIRST CLASS": {
+      "venue": "Aradhana Theatre: Hyderabad",
+      "time": "08:00 AM",
+      "date": "20260809",
+      "cat": "FIRST CLASS",
+      "price": "100.00",
+      "status": "2"
+    },
+    "ARTH|6454|20260809|SECOND CLASS": {
+      "venue": "Aradhana Theatre: Hyderabad",
+      "time": "08:00 AM",
+      "date": "20260809",
+      "cat": "SECOND CLASS",
+      "price": "50.00",
+      "status": "2"
+    },
+    "KTKT|20082|20260809|Dress Circle": {
+      "venue": "Kumar Theatre: Kachiguda",
+      "time": "08:00 AM",
+      "date": "20260809",
+      "cat": "Dress Circle",
+      "price": "100.00",
+      "status": "3"
+    },
+    "KTKT|20082|20260809|Balcony": {
+      "venue": "Kumar Theatre: Kachiguda",
+      "time": "08:00 AM",
+      "date": "20260809",
+      "cat": "Balcony",
+      "price": "150.00",
       "status": "3"
     }
   },
